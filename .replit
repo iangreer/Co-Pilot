@@ -1,2 +1,2 @@
-language = "erlang"
+language = "golang"
 run = ""
