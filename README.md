@@ -1,4 +1,4 @@
-# Ccodename 'Sherpa-io'
+# Codename 'Sherpa-io'
 
 ## This project is intended to provide new programmers with the resources they need to bootstrap any new project
 - Tutorials
